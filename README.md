@@ -1,5 +1,5 @@
 # Employee Tracker
-This program uses MySQL and Inquirer to create a Content Management System taht is used from the command line. 
+This program uses MySQL and Inquirer to create a Content Management System that is used from the command line. 
 
 ## User Story
 
